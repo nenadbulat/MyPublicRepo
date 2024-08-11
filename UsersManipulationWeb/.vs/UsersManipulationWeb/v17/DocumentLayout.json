@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyProjects\\UsersManipulationWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D9B19B7-F046-4D59-9E36-91E1A21349CE}|UsersManipulationWeb.csproj|d:\\myprojects\\usersmanipulationweb\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D9B19B7-F046-4D59-9E36-91E1A21349CE}|UsersManipulationWeb.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D9B19B7-F046-4D59-9E36-91E1A21349CE}|UsersManipulationWeb.csproj|d:\\myprojects\\usersmanipulationweb\\util\\dbmanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D9B19B7-F046-4D59-9E36-91E1A21349CE}|UsersManipulationWeb.csproj|solutionrelative:util\\dbmanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D9B19B7-F046-4D59-9E36-91E1A21349CE}|UsersManipulationWeb.csproj|d:\\myprojects\\usersmanipulationweb\\util\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D9B19B7-F046-4D59-9E36-91E1A21349CE}|UsersManipulationWeb.csproj|solutionrelative:util\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D9B19B7-F046-4D59-9E36-91E1A21349CE}|UsersManipulationWeb.csproj|d:\\myprojects\\usersmanipulationweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D9B19B7-F046-4D59-9E36-91E1A21349CE}|UsersManipulationWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D9B19B7-F046-4D59-9E36-91E1A21349CE}|UsersManipulationWeb.csproj|D:\\MyProjects\\UsersManipulationWeb\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{7D9B19B7-F046-4D59-9E36-91E1A21349CE}|UsersManipulationWeb.csproj|solutionrelative:resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D9B19B7-F046-4D59-9E36-91E1A21349CE}|UsersManipulationWeb.csproj|d:\\myprojects\\usersmanipulationweb\\apikey\\apikeyauthorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D9B19B7-F046-4D59-9E36-91E1A21349CE}|UsersManipulationWeb.csproj|solutionrelative:apikey\\apikeyauthorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyProjects\\UsersManipulationWeb\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MyProjects\\UsersManipulationWeb\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T18:57:07.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\MyProjects\\UsersManipulationWeb\\Resources.resx",
+              "RelativeDocumentMoniker": "Resources.resx",
+              "ToolTip": "D:\\MyProjects\\UsersManipulationWeb\\Resources.resx",
+              "RelativeToolTip": "Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-10T18:57:03.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiKeyAuthorizationFilter.cs",
+              "DocumentMoniker": "D:\\MyProjects\\UsersManipulationWeb\\ApiKey\\ApiKeyAuthorizationFilter.cs",
+              "RelativeDocumentMoniker": "ApiKey\\ApiKeyAuthorizationFilter.cs",
+              "ToolTip": "D:\\MyProjects\\UsersManipulationWeb\\ApiKey\\ApiKeyAuthorizationFilter.cs",
+              "RelativeToolTip": "ApiKey\\ApiKeyAuthorizationFilter.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:17:36.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\MyProjects\\UsersManipulationWeb\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\MyProjects\\UsersManipulationWeb\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAqwNcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:37:33.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\MyProjects\\UsersManipulationWeb\\Util\\Logger.cs",
+              "RelativeDocumentMoniker": "Util\\Logger.cs",
+              "ToolTip": "D:\\MyProjects\\UsersManipulationWeb\\Util\\Logger.cs",
+              "RelativeToolTip": "Util\\Logger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:37:33.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBManipulation.cs",
+              "DocumentMoniker": "D:\\MyProjects\\UsersManipulationWeb\\Util\\DBManipulation.cs",
+              "RelativeDocumentMoniker": "Util\\DBManipulation.cs",
+              "ToolTip": "D:\\MyProjects\\UsersManipulationWeb\\Util\\DBManipulation.cs",
+              "RelativeToolTip": "Util\\DBManipulation.cs",
+              "ViewState": "AQIAAP0AAAAAAAAAAAAswD0BAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:23:07.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
